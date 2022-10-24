@@ -28,6 +28,7 @@ setup(
         'pandas',
         'ZigZag==0.2.2',
         'matplotlib',
+        'mpl-finance>=0.10.0'
     ],
     setup_requires=[
         'pytest-runner'
